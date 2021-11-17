@@ -12,6 +12,9 @@ public class Tab {
 		int tableauEnt[] = new int[6];
 		// Ou encore
 		int[] tableauEnt2 = new int[6];
+		//Tableau multidimensionnels
+		int nombresPremiers[][] = { {0,2,4,6,8}, {1,3,5,7,9}};
+		
 
 	}
 
